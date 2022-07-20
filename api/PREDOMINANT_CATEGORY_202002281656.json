@@ -1,0 +1,171 @@
+{
+"PREDOMINANT_CATEGORY": [
+	{
+		"CATEGORY_ID" : 1,
+		"CATEGORY_NAME" : "Home audio",
+		"CATEGORY_CODE" : 5,
+		"PRIORITY" : 21
+	},
+	{
+		"CATEGORY_ID" : 2,
+		"CATEGORY_NAME" : "iPad, tablets and E-readers",
+		"CATEGORY_CODE" : 10,
+		"PRIORITY" : 10
+	},
+	{
+		"CATEGORY_ID" : 3,
+		"CATEGORY_NAME" : "Laptops and PCs",
+		"CATEGORY_CODE" : 15,
+		"PRIORITY" : 11
+	},
+	{
+		"CATEGORY_ID" : 4,
+		"CATEGORY_NAME" : "Mobile phones and accessories",
+		"CATEGORY_CODE" : 20,
+		"PRIORITY" : 12
+	},
+	{
+		"CATEGORY_ID" : 5,
+		"CATEGORY_NAME" : "Televisions and accessories",
+		"CATEGORY_CODE" : 25,
+		"PRIORITY" : 13
+	},
+	{
+		"CATEGORY_ID" : 6,
+		"CATEGORY_NAME" : "Sat nav and in-car entertainment",
+		"CATEGORY_CODE" : 30,
+		"PRIORITY" : 30
+	},
+	{
+		"CATEGORY_ID" : 7,
+		"CATEGORY_NAME" : "Kitchen electricals",
+		"CATEGORY_CODE" : 35,
+		"PRIORITY" : 35
+	},
+	{
+		"CATEGORY_ID" : 8,
+		"CATEGORY_NAME" : "Heating and cooling",
+		"CATEGORY_CODE" : 40,
+		"PRIORITY" : 18
+	},
+	{
+		"CATEGORY_ID" : 9,
+		"CATEGORY_NAME" : "Laundry and cleaning",
+		"CATEGORY_CODE" : 45,
+		"PRIORITY" : 45
+	},
+	{
+		"CATEGORY_ID" : 10,
+		"CATEGORY_NAME" : "Bikes and accessories",
+		"CATEGORY_CODE" : 50,
+		"PRIORITY" : 50
+	},
+	{
+		"CATEGORY_ID" : 11,
+		"CATEGORY_NAME" : "Cooking, dining and kitchen equipment",
+		"CATEGORY_CODE" : 60,
+		"PRIORITY" : 60
+	},
+	{
+		"CATEGORY_ID" : 12,
+		"CATEGORY_NAME" : "DVD players, Blu-ray players and home cinema",
+		"CATEGORY_CODE" : 65,
+		"PRIORITY" : 65
+	},
+	{
+		"CATEGORY_ID" : 13,
+		"CATEGORY_NAME" : "Bedroom and bathroom furniture",
+		"CATEGORY_CODE" : 70,
+		"PRIORITY" : 70
+	},
+	{
+		"CATEGORY_ID" : 14,
+		"CATEGORY_NAME" : "Car equipment and accessories",
+		"CATEGORY_CODE" : 75,
+		"PRIORITY" : 75
+	},
+	{
+		"CATEGORY_ID" : 15,
+		"CATEGORY_NAME" : "Children's furniture",
+		"CATEGORY_CODE" : 80,
+		"PRIORITY" : 80
+	},
+	{
+		"CATEGORY_ID" : 16,
+		"CATEGORY_NAME" : "Storage, desks and filing",
+		"CATEGORY_CODE" : 85,
+		"PRIORITY" : 85
+	},
+	{
+		"CATEGORY_ID" : 17,
+		"CATEGORY_NAME" : "Home office",
+		"CATEGORY_CODE" : 90,
+		"PRIORITY" : 90
+	},
+	{
+		"CATEGORY_ID" : 18,
+		"CATEGORY_NAME" : "Ladies' jewellery",
+		"CATEGORY_CODE" : 95,
+		"PRIORITY" : 24
+	},
+	{
+		"CATEGORY_ID" : 19,
+		"CATEGORY_NAME" : "Video games and consoles",
+		"CATEGORY_CODE" : 99,
+		"PRIORITY" : 15
+	},
+	{
+		"CATEGORY_ID" : 20,
+		"CATEGORY_NAME" : "Other",
+		"CATEGORY_CODE" : 1,
+		"PRIORITY" : 100
+	},
+	{
+		"CATEGORY_ID" : 21,
+		"CATEGORY_NAME" : "Limited stock Technology",
+		"CATEGORY_CODE" : 26,
+		"PRIORITY" : 14
+	},
+	{
+		"CATEGORY_ID" : 22,
+		"CATEGORY_NAME" : "Drones",
+		"CATEGORY_CODE" : 33,
+		"PRIORITY" : 16
+	},
+	{
+		"CATEGORY_ID" : 23,
+		"CATEGORY_NAME" : "Cameras and camcorders",
+		"CATEGORY_CODE" : 31,
+		"PRIORITY" : 17
+	},
+	{
+		"CATEGORY_ID" : 24,
+		"CATEGORY_NAME" : "Home improvements",
+		"CATEGORY_CODE" : 27,
+		"PRIORITY" : 19
+	},
+	{
+		"CATEGORY_ID" : 25,
+		"CATEGORY_NAME" : "Men's jewellery and cufflinks",
+		"CATEGORY_CODE" : 28,
+		"PRIORITY" : 20
+	},
+	{
+		"CATEGORY_ID" : 26,
+		"CATEGORY_NAME" : "iPod, MP3 and headphones",
+		"CATEGORY_CODE" : 32,
+		"PRIORITY" : 22
+	},
+	{
+		"CATEGORY_ID" : 27,
+		"CATEGORY_NAME" : "Floorcare",
+		"CATEGORY_CODE" : 29,
+		"PRIORITY" : 23
+	},
+	{
+		"CATEGORY_ID" : 28,
+		"CATEGORY_NAME" : "Virtual Reality Headsets",
+		"CATEGORY_CODE" : 34,
+		"PRIORITY" : 34
+	}
+]}
